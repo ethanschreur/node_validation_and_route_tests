@@ -1,0 +1,21 @@
+{
+  "name": "bookstore-solution",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^27.0.3",
+    "jsonschema": "^1.4.0",
+    "locus": "^2.0.1",
+    "pg": "^8.3.3",
+    "supertest": "^3.3.0"
+  },
+  "description": ""
+}
